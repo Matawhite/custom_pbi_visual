@@ -1,1 +1,1 @@
-﻿# A simple Power BI Visualization
+﻿# A simple Power BI visualization
